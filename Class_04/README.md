@@ -1,5 +1,5 @@
-'''yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$  man mkdir
-'''vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ mkdir ABC
+yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:'''~$  man mkdir
+vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:'''~$ mkdir ABC
 vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ ls
 ABC  Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
 vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ ls -l
