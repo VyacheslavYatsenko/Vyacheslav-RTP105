@@ -1,5 +1,5 @@
-yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$  man mkdir
-vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ mkdir ABC
+'''yacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$  man mkdir
+'''vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ mkdir ABC
 vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ ls
 ABC  Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
 vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ ls -l
@@ -13,7 +13,7 @@ drwxr-xr-x 2 vyacheslavurbuntu vyacheslavurbuntu 4096 sep 12 12:18 Pictures
 drwxr-xr-x 2 vyacheslavurbuntu vyacheslavurbuntu 4096 sep  4 11:52 Public
 drwxr-xr-x 2 vyacheslavurbuntu vyacheslavurbuntu 4096 sep  4 11:52 Templates
 drwxr-xr-x 2 vyacheslavurbuntu vyacheslavurbuntu 4096 sep  4 11:52 Videos
-vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ pwd
+'''vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ pwd
 /home/vyacheslavurbuntu
 vyacheslavurbuntu@vyacheslavurbuntu-VirtualBox:~$ tree
 
